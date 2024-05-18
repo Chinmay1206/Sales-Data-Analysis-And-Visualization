@@ -1,4 +1,5 @@
 # Sales-Data-Analysis-And-Visualization
+This README provides a comprehensive overview of the Certified Data Analyst project, highlighting its objectives, methodologies, outcomes, and implications. For further details and access to the project materials, please refer to the repository.
 
 # Introduction
 
